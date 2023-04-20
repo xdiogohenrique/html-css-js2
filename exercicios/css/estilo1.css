@@ -1,0 +1,39 @@
+#principal {
+    border-radius: 100px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    padding: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #f00;
+    box-shadow:  #ccc 5px 5px 5px 5px;
+    background-image: linear-gradient(#fff, #ccc);
+    text-align: justify;
+    font-size: 17pt;
+}
+
+.classe1{
+
+    background-color: #f00;
+    color: #fff;
+}
+
+.classe2{
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.classe3{
+
+    color: #0f0;
+    font-weight: bold;
+    background-color: #000;
+    text-decoration: line-through;
+}
+
+.classe4{
+    color: #f00;
+    font-weight: bold;
+    text-decoration: underline;
+}
